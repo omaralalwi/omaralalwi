@@ -1,7 +1,7 @@
 <br />
 <div align="center" style="background-color: #343a40; color:#ffffff; padding: 20px; border-radius: 90px 5px;">
 
-<img src="https://avatars.githubusercontent.com/u/25439498?v=4" align="center" height="300" width="300" style="border-radius: 50%; margin-bottom: 10px;"/>
+[//]: # (<img src="https://avatars.githubusercontent.com/u/25439498?v=4" align="center" height="300" width="300" style="border-radius: 50%; margin-bottom: 10px;"/>)
 
 ### 👋 Hi, I'm Omar Alalwi!
 
