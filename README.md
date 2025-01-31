@@ -88,7 +88,7 @@
 
 - <a href="https://github.com/deepseek-php/deepseek-laravel"><img src="https://github.com/deepseek-php/deepseek-laravel/blob/master/public/images/laravel%20deepseek%20ai%20banner.jpg?raw=true" width="26" height="26" style="border-radius:13px;" alt="deepseek laravel" /> deepseek laravel </a> Laravel wrapper for Deepseek PHP client to seamless deepseek AI API integration with Laravel applications.
 
-- <a href="https://github.com/qwen-php/qwen-php-client"><img src="https://avatars.githubusercontent.com/u/197095442?s=200&v=4" width="26" height="26" style="border-radius:13px;" alt="Qwen PHP client" /> Qwen PHP client </a> robust and community-driven PHP client library for seamless integration with the Qwen API .
+- <a href="https://github.com/qwen-php/qwen-php-client"><img src="https://avatars.githubusercontent.com/u/197095442?s=200&v=4" width="26" height="26" style="border-radius:13px;" alt="Qwen PHP client" /> </a> Qwen PHP client </a> robust and community-driven PHP client library for seamless integration with the Qwen API .
 
 - <a href="https://github.com/qwen-php/qwen-laravel"><img src="https://github.com/qwen-php/qwen-laravel/blob/master/public/images/laravel%20qwen%20ai%20banner.jpg?raw=true" width="26" height="26" style="border-radius:13px;" alt="qwen laravel" /> Laravel wrapper for qwen PHP client to seamless Alibaba qwen AI API integration with Laravel applications..
 
