@@ -117,7 +117,7 @@
 - <a href="https://github.com/omaralalwi/clean-code-summary"><img src="https://avatars.githubusercontent.com/u/25439498?v=" width="26" height="26" style="border-radius:13px;" alt="Clean Code Summary" /> **Clean Code Summary** </a> summarize and notes for books and practices about clean code.
 
 - <a href="https://github.com/omaralalwi/solid-principles-summary"><img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="SOLID Principles Summary" /> **SOLID Principles Summary** </a>  summarize and notes for books about SOLID Principles .
-- 
+
 ---
 
 ## 📈 GitHub Stats
