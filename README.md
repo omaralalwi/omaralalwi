@@ -108,7 +108,7 @@
 
  - <a href="https://github.com/kunafaPlus/kunafa-dashboard-vue"><img src="https://github.com/kunafaPlus/kunafa-dashboard-vue/raw/master/public/screenshots/Home-LTR.png" width="26" height="26" style="border-radius:13px;" alt="Kunafa Dashboard Vue" /> **Kunafa Dashboard Vue** </a>  A feature-rich Vue.js 3 dashboard template with multi-language support and full RTL/LTR bidirectional layout capabilities.
 
-- <a href="https://github.com/omaralalwi/php-py" width="26" height="26" style="border-radius:13px;" alt="PhpPy - PHP Python" /> **PhpPy - PHP Python** </a> Interact with python in PHP applications .
+- <a href="https://github.com/omaralalwi/php-py"> <img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="PhpPy - PHP Python" /> **PhpPy - PHP Python** </a> Interact with python in PHP applications .
 
 - <a href="https://github.com/omaralalwi/laravel-py"><img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="Laravel Py - Laravel Python " /> **Laravel Py - Laravel Python** </a>  interact with python in Laravel applications .
 
