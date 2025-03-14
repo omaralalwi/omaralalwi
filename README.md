@@ -83,7 +83,7 @@
 ---
 
 
-## 📚 My Open Source Packages & Projects
+# 📚 ✨ My Open Source Packages & Projects ✨
 
 ### Packages
 
