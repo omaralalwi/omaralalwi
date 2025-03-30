@@ -101,7 +101,7 @@
 
 - <a href="https://github.com/omaralalwi/php-builders"><img src="https://repository-images.githubusercontent.com/917404875/c5fbf4c9-d41f-44c6-afc6-0d66cf7f4c4f" width="26" height="26" style="border-radius:13px;" alt="PHP builders" /> **PHP builders** </a> sample php traits to add ability to use builder design patterns with easy in PHP applications.
 
-- <a href="https://github.com/omaralalwi/laravel-api-helpers"><img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="Laravel API Helpers" /> **Laravel API Helpers** </a> Laravel API Helpers provides a set of helper functions for API Requests .
+- <a href="https://github.com/omaralalwi/laravel-api-helpers"><img src="https://github.com/omaralalwi/laravel-api-helpers/blob/main/public/images/laravel-api-helpers.jpg?raw=true" width="26" height="26" style="border-radius:13px;" alt="Laravel API Helpers" /> **Laravel API Helpers** </a> Laravel API Helpers provides a set of helper functions for API Requests .
 
 - <a href="https://github.com/omaralalwi/php-py"> <img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="PhpPy - PHP Python" /> **PhpPy - PHP Python** </a> Interact with python in PHP applications.
 
