@@ -17,11 +17,26 @@
 
 ## GitHub Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaralalwi&show_icons=true&count_private=true&include_all_commits=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=omaralalwi&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000"
+    alt="Omar Alalwi GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omaralalwi&layout=compact)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaralalwi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
+    alt="Omar Alalwi Top Languages"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=omaralalwi)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=omaralalwi&theme=github-dark-blue&hide_border=true&background=00000000"
+    alt="Omar Alalwi GitHub Streak"
+  />
+</p>
 
 ---
 
