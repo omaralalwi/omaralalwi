@@ -15,6 +15,16 @@
 
 ---
 
+## GitHub Stats
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaralalwi&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omaralalwi&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=omaralalwi)
+
+---
+
 ## 🛠️ My Skill Set
 
 <table>
@@ -49,8 +59,8 @@
 ## 📫 How to Reach Me
 
 <div align="center">
- <a href="https://omaralalwi.info" target="_blank">
-    <img src="https://img.shields.io/badge/website-omaralalwi.info-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
+ <a href="https://omaralalwi.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-omaralalwi.com-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
  </a>
  <a href="mailto:omaralwi2010@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-omaralwi2010@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -58,9 +68,6 @@
 <br />
  <a href="https://t.me/Omaralalwi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Omaralalwi-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
- </a>
- <a href="https://wa.me/00967770902927" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-00967770902927-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
  </a>
 <br />
  <a href="https://github.com/omaralalwi" target="_blank">
@@ -75,9 +82,7 @@
  <a href="https://www.facebook.com/omar.alalwi.52" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
  </a>
- <a href="https://www.youtube.com/user/OmarAlalwi" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
- </a>
+
 </div>
 
 ---
