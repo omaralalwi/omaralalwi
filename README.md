@@ -184,22 +184,6 @@ My work focuses on:
 
 ---
 
-## Selected Platform Experience
-
-### Learning Management Systems
-
-Built and improved Laravel-based LMS features including course management, instructor workflows, student enrollment, content delivery, certificates, multilingual structure, media handling, access control, and platform reliability.
-
-### AI-Enhanced Products
-
-Integrated AI capabilities into web applications to improve product functionality, business workflows, automation, translation/content workflows, user experience, and operational efficiency.
-
-### SaaS & Business Platforms
-
-Worked across maintenance platforms, SaaS products, ecommerce SaaS, budget management systems, business dashboards, APIs, and custom workflow-driven applications.
-
----
-
 ## Tech Stack
 
 <p align="center">
