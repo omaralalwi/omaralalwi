@@ -1,153 +1,235 @@
-<br />
-<div align="center" style="background-color: #343a40; color:#ffffff; padding: 20px; border-radius: 90px 5px;">
+<div align="center">
 
-[//]: # (<img src="https://avatars.githubusercontent.com/u/25439498?v=4" align="center" height="300" width="300" style="border-radius: 50%; margin-bottom: 10px;"/>)
+<img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="120" height="120" alt="Omar Alalwi" style="border-radius: 50%;" />
 
-### 👋 Hi, I'm Omar Alalwi!
+# Omar Ahmed Alalwi
 
-&lt;  🌱 I'm a Tech Lead & Full Stack Web Developer specializing in PHP/Laravel & Vue.js &gt;
+### Technical Lead · Engineering Lead · Senior Full-Stack Developer
 
-&lt; 🔭 Currently working as Tech Lead & Senior Full Stack Developer with [Ajeer App](https://www.iajeer.com) &gt;
+Product-minded **PHP/Laravel Architect** building SaaS, LMS, ecommerce, APIs, business-critical platforms, and AI-enhanced web products.
 
-&lt; 🌱 Passionate about building SAAS applications &gt;
+<p>
+  <a href="https://omaralalwi.com"><img src="https://img.shields.io/badge/Website-omaralalwi.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:omaralwi2010@gmail.com"><img src="https://img.shields.io/badge/Email-omaralwi2010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/omaralalwi"><img src="https://img.shields.io/badge/LinkedIn-omaralalwi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/omaralalwi2013" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Follow%20on%20X-@omaralalwi2013-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="Follow Omar Alalwi on X"
+  />
+</a>
+</p>
 
 </div>
 
 ---
 
-## GitHub Stats
+## About Me
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=omaralalwi&theme=github-dark-blue&hide_border=true&background=00000000"
-    alt="Omar Alalwi GitHub Streak"
-  />
-</p>
+I am a **Technical Lead and Senior Full-Stack Software Engineer** with around **9 years of software engineering experience**, including around **5 years building and improving SaaS platforms**.
+
+My work focuses on:
+
+- Leading engineering execution, delivery planning, code reviews, release workflows, and technical decision-making.
+- Designing and modernizing Laravel systems, backend architecture, APIs, databases, CI/CD, Docker workflows, and production operations.
+- Reducing technical debt through refactoring, cleaner architecture, maintainable patterns, and long-term system ownership.
+- Building product-minded solutions across maintenance platforms, SaaS products, ecommerce SaaS, LMS platforms, APIs, and custom business systems.
+- Applying AI-assisted engineering workflows to improve automation, analysis, refactoring, product quality, and engineering productivity.
 
 ---
 
-## 🛠️ My Skill Set
+## Engineering Focus
 
 <table>
- <tr>
-    <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-    </td>
- </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Backend & Architecture
+
+- PHP / Laravel
+- REST APIs
+- SaaS architecture
+- Package development
+- Refactoring and design patterns
+- Database analysis and optimization
+- Production debugging and stability
+
+</td>
+<td width="50%" valign="top">
+
+### Leadership & Delivery
+
+- Technical leadership
+- Code reviews
+- Delivery planning
+- Jira workflows
+- CI/CD and release coordination
+- Mentoring developers
+- Product-minded engineering
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend & Product UI
+
+- Vue.js
+- JavaScript / TypeScript
+- HTML / CSS
+- Bootstrap
+- SPA development
+- Dashboard UX
+- Multilingual and RTL interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### DevOps & AI
+
+- Docker
+- Server management
+- Deployment workflows
+- Production support
+- AI integrations
+- AI coding agents
+- Developer automation
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📫 How to Reach Me
+## Selected Career Highlights
+
+- Around **9 years** of software engineering experience.
+- Around **5 years** working on SaaS platforms.
+- Led engineering execution, code reviews, delivery planning, release workflows, and technical decision-making.
+- Modernized and upgraded multiple Laravel systems and modules toward modern, maintainable architecture.
+- Improved dashboard and mobile app performance by **70%+**, based on Firebase-reported performance improvements.
+- Author of **10+ public PHP/Laravel open-source packages**.
+- Experience across maintenance platforms, SaaS products, ecommerce SaaS, LMS platforms, APIs, and custom business applications.
+
+---
+
+## Professional Experience
+
+### Ajeer App — Maintenance Platform
+**Tech Lead, Team Lead & Senior Full-Stack Developer** · Remote  
+`Jun 2023 — May 2026`
+
+- Led a cross-functional engineering team across technical execution, Jira workflows, code quality, delivery planning, and product collaboration.
+- Directed backend architecture decisions and code reviews to improve scalability, maintainability, and long-term system quality.
+- Led modernization and upgrade initiatives across multiple Laravel systems and modules, moving legacy codebases toward modern Laravel architecture and Laravel v11 adoption.
+- Refactored complex backend areas using design patterns and cleaner architecture practices to reduce technical debt.
+- Improved dashboard and mobile app performance by more than 70%, based on Firebase-reported performance improvements.
+- Owned version control, release coordination, CI/CD pipelines, Docker-based workflows, deployment processes, and production stability.
+- Applied AI-assisted engineering workflows to accelerate analysis, planning, refactoring, feature delivery, and technical decision-making.
+
+### Budget SaaS Platform
+**Team Lead & Senior Full-Stack Developer** · Remote  
+`Oct 2022 — May 2023`
+
+- Led development of key features for a budget management SaaS platform.
+- Built and optimized Laravel backend components and Vue.js interfaces.
+- Collaborated with clients and stakeholders to translate business needs into maintainable technical solutions.
+
+### Salla Ecommerce SaaS Platform
+**Senior Technical Support Engineer — Debugging & Development** · Remote  
+`Aug 2021 — Sep 2022`
+
+- Supported a large-scale ecommerce SaaS platform by investigating high-priority technical issues and debugging production cases.
+- Performed deep code analysis to identify root causes, fix production issues, and improve platform reliability.
+- Contributed to feature development, platform enhancements, performance analysis, and backend workflow optimization.
+
+### Self-Employed
+**Full-Stack Developer** · Sana'a, Yemen  
+`Mar 2017 — Aug 2021`
+
+- Delivered full-stack web development services across ecommerce, HR, accounting, and business management applications.
+- Designed and developed custom Laravel solutions, backend systems, frontend interfaces, APIs, and third-party integrations.
+- Managed end-to-end delivery from requirements gathering to testing, deployment, maintenance, and support.
+
+---
+
+## Open Source Packages & Projects
+
+### AI & LLM Integrations
+
+- **[Deepseek PHP Client](https://github.com/deepseek-php/deepseek-php-client)** — PHP client library for integrating with the Deepseek API.
+- **[Deepseek Laravel](https://github.com/deepseek-php/deepseek-laravel)** — Laravel wrapper for Deepseek PHP client.
+- **[Qwen PHP Client](https://github.com/qwen-php/qwen-php-client)** — PHP client library for integrating with Qwen APIs.
+- **[Qwen Laravel](https://github.com/qwen-php/qwen-laravel)** — Laravel wrapper for Alibaba Qwen AI integration.
+
+### Laravel & PHP Packages
+
+- **[Gpdf](https://github.com/omaralalwi/Gpdf)** — HTML-to-PDF converter for PHP and Laravel applications with Arabic support out of the box.
+- **[Lexi Translate](https://github.com/omaralalwi/lexi-translate)** — Translation management for multilingual Eloquent models using morph relationships and caching.
+- **[Laravel Taxify](https://github.com/omaralalwi/laravel-taxify)** — Helpers and classes for tax and VAT calculations in Laravel.
+- **[Laravel Deployer](https://github.com/omaralalwi/laravel-deployer)** — Deployment helper for Laravel and Node.js apps with zero-downtime concepts.
+- **[Laravel Time Craft](https://github.com/omaralalwi/laravel-time-craft)** — Traits and helpers for managing date and time queries in Laravel.
+- **[Laravel API Helpers](https://github.com/omaralalwi/laravel-api-helpers)** — Helper functions for Laravel API requests.
+- **[Laravel Trash Cleaner](https://github.com/omaralalwi/laravel-trash-cleaner)** — Cleanup utilities for logs and debugging files.
+- **[PHP Builders](https://github.com/omaralalwi/php-builders)** — PHP traits for applying builder-style patterns.
+- **[PhpPy](https://github.com/omaralalwi/php-py)** — Interact with Python from PHP applications.
+- **[Laravel Py](https://github.com/omaralalwi/laravel-py)** — Interact with Python from Laravel applications.
+
+### Dashboards & References
+
+- **[Laravel Startkit](https://github.com/omaralalwi/laravel-startkit)** — Laravel admin dashboard and starter template for scalable projects.
+- **[Kunafa Dashboard Vue](https://github.com/kunafaPlus/kunafa-dashboard-vue)** — Vue.js 3 dashboard template with multilingual and RTL/LTR support.
+- **[Clean Code Summary](https://github.com/omaralalwi/clean-code-summary)** — Notes and summaries about clean code practices.
+- **[SOLID Principles Summary](https://github.com/omaralalwi/solid-principles-summary)** — Notes and summaries about SOLID principles.
+
+---
+
+## Selected Platform Experience
+
+### Learning Management Systems
+
+Built and improved Laravel-based LMS features including course management, instructor workflows, student enrollment, content delivery, certificates, multilingual structure, media handling, access control, and platform reliability.
+
+### AI-Enhanced Products
+
+Integrated AI capabilities into web applications to improve product functionality, business workflows, automation, translation/content workflows, user experience, and operational efficiency.
+
+### SaaS & Business Platforms
+
+Worked across maintenance platforms, SaaS products, ecommerce SaaS, budget management systems, business dashboards, APIs, and custom workflow-driven applications.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,html,css,bootstrap,mysql,redis,docker,linux,git,github,gitlab,nginx,vite" alt="Tech Stack" />
+</p>
+
+---
+
+## GitHub Activity
 
 <div align="center">
- <a href="https://omaralalwi.com" target="_blank">
-    <img src="https://img.shields.io/badge/website-omaralalwi.com-blue?style=for-the-badge&logo=html5&logoColor=white" alt="website" />
- </a>
- <a href="mailto:omaralwi2010@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-omaralwi2010@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
- </a>
-<br />
- <a href="https://t.me/Omaralalwi" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Omaralalwi-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
- </a>
-<br />
- <a href="https://github.com/omaralalwi" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
- </a>
- <a href="https://twitter.com/omaralalwi2013" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
- </a>
- <a href="https://linkedin.com/in/omaralalwi" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
- </a>
- <a href="https://www.facebook.com/omar.alalwi.52" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
- </a>
+
+<img src="https://streak-stats.demolab.com?user=omaralalwi&theme=github-dark-blue&hide_border=true&background=00000000" alt="Omar Alalwi GitHub Streak" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omaralalwi&theme=github_dark" alt="Omar Alalwi GitHub Profile Summary" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omaralalwi&theme=github_dark" alt="Omar Alalwi Repositories Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omaralalwi&theme=github_dark" alt="Omar Alalwi Most Commit Language" />
 
 </div>
 
 ---
 
+## Education
 
-# 📚 ✨ My Open Source Packages & Projects ✨
-
-### Packages
-
-- <a href="https://github.com/deepseek-php/deepseek-php-client"><img src="https://avatars.githubusercontent.com/u/193405629?s=200&v=4" width="26" height="26" style="border-radius:13px;" alt="Deepseek PHP client" /> **deepseek PHP client** </a> robust and community-driven PHP client library for seamless integration with the Deepseek API, offering efficient access to advanced AI and data processing capabilities .
-
-- <a href="https://github.com/deepseek-php/deepseek-laravel"><img src="https://github.com/deepseek-php/deepseek-laravel/blob/master/public/images/laravel%20deepseek%20ai%20banner.jpg?raw=true" width="26" height="26" style="border-radius:13px;" alt="deepseek laravel" /> **deepseek laravel** </a> Laravel wrapper for Deepseek PHP client to seamless deepseek AI API integration with Laravel applications.
-
-- <a href="https://github.com/qwen-php/qwen-php-client"><img src="https://avatars.githubusercontent.com/u/197095442?s=200&v=4" width="26" height="26" style="border-radius:13px;" alt="Qwen PHP client" /> **Qwen PHP client** </a> robust and community-driven PHP client library for seamless integration with the Qwen API .
-
-- <a href="https://github.com/qwen-php/qwen-laravel"><img src="https://github.com/qwen-php/qwen-laravel/blob/master/public/images/laravel%20qwen%20ai%20banner.jpg?raw=true" width="26" height="26" style="border-radius:13px;" alt="qwen laravel" /> **Laravel qwen** </a> wrapper for qwen PHP client to seamless Alibaba qwen AI API integration with Laravel applications..
-
-
-- <a href="https://github.com/omaralalwi/lexi-translate"><img src="https://raw.githubusercontent.com/omaralalwi/lexi-translate/master/public/images/lexi-translate-banner.jpg" width="26" height="26" style="border-radius:13px;" alt="lexi translate" /> Lexi Translate </a> simplify managing translations for multilingual Eloquent models with power of morph relationships and caching .
-
-- <a href="https://github.com/omaralalwi/Gpdf"><img src="https://raw.githubusercontent.com/omaralalwi/Gpdf/master/public/images/gpdf-banner-bg.jpg" width="26" height="26" style="border-radius:13px;" alt="Gpdf" /> Gpdf </a> Open Source HTML to PDF converter for PHP & Laravel Applications, supports Arabic content out-of-the-box and other languages.
-
-- <a href="https://github.com/omaralalwi/laravel-taxify"><img src="https://raw.githubusercontent.com/omaralalwi/laravel-taxify/master/public/images/taxify.jpg" width="26" height="26" style="border-radius:13px;" alt="laravel Taxify" /> **laravel Taxify** </a> Laravel Taxify provides a set of helper functions and classes to simplify tax (VAT) calculations within Laravel applications.
-
-- <a href="https://github.com/omaralalwi/laravel-deployer"><img src="https://raw.githubusercontent.com/omaralalwi/laravel-deployer/master/public/images/deployer.jpg" width="26" height="26" style="border-radius:13px;" alt="laravel Deployer" /> **laravel Deployer** </a> Streamlined Deployment for Laravel and Node.js apps, with Zero-Downtime and various environments and branches.
-
-- <a href="https://github.com/omaralalwi/laravel-trash-cleaner"><img src="https://raw.githubusercontent.com/omaralalwi/laravel-trash-cleaner/master/public/images/laravel-trash-cleaner.jpg" width="26" height="26" style="border-radius:13px;" alt="laravel Trash Cleaner" /> **laravel Trash Cleaner** </a> clean logs and debug files for debugging packages.
-
-- <a href="https://github.com/omaralalwi/laravel-time-craft"><img src="https://raw.githubusercontent.com/omaralalwi/laravel-time-craft/master/public/images/laravel-time-craft.jpg" width="26" height="26" style="border-radius:13px;" alt="laravel Time Craft" /> **laravel Time Craft** </a> simple trait and helper functions that allow you, Effortlessly manage date and time queries in Laravel apps.
-
-- <a href="https://github.com/omaralalwi/php-builders"><img src="https://repository-images.githubusercontent.com/917404875/c5fbf4c9-d41f-44c6-afc6-0d66cf7f4c4f" width="26" height="26" style="border-radius:13px;" alt="PHP builders" /> **PHP builders** </a> sample php traits to add ability to use builder design patterns with easy in PHP applications.
-
-- <a href="https://github.com/omaralalwi/laravel-api-helpers"><img src="https://github.com/omaralalwi/laravel-api-helpers/blob/main/public/images/laravel-api-helpers.jpg?raw=true" width="26" height="26" style="border-radius:13px;" alt="Laravel API Helpers" /> **Laravel API Helpers** </a> Laravel API Helpers provides a set of helper functions for API Requests .
-
-- <a href="https://github.com/omaralalwi/php-py"> <img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="PhpPy - PHP Python" /> **PhpPy - PHP Python** </a> Interact with python in PHP applications.
-
-- <a href="https://github.com/omaralalwi/laravel-py"><img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="Laravel Py - Laravel Python" /> **Laravel Py - Laravel Python** </a> interact with python in Laravel applications.
-
-### Dashboards
-
-- <a href="https://github.com/omaralalwi/laravel-startkit"><img src="https://raw.githubusercontent.com/omaralalwi/laravel-startkit/master/public/screenshots/backend-rtl.png" width="26" height="26" style="border-radius:13px;" alt="Laravel Startkit" /> **Laravel Startkit** </a> Laravel Admin Dashboard, Admin Template with Frontend Template, for scalable Laravel projects.
-
-- <a href="https://github.com/kunafaPlus/kunafa-dashboard-vue"><img src="https://github.com/kunafaPlus/kunafa-dashboard-vue/raw/master/public/screenshots/Home-LTR.png" width="26" height="26" style="border-radius:13px;" alt="Kunafa Dashboard Vue" /> **Kunafa Dashboard Vue** </a> A feature-rich Vue.js 3 dashboard template with multi-language support and full RTL/LTR bidirectional layout capabilities.
-
-### References
-
-- <a href="https://github.com/omaralalwi/clean-code-summary"><img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="Clean Code Summary" /> **Clean Code Summary** </a> summarize and notes for books and practices about clean code.
-
-- <a href="https://github.com/omaralalwi/solid-principles-summary"><img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="26" height="26" style="border-radius:13px;" alt="SOLID Principles Summary" /> **SOLID Principles Summary** </a> summarize and notes for books about SOLID Principles.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=omaralalwi&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-
----
-
-## 📝 Recent Blog Posts
-
-### Laravel Taxify: Simplify Tax Calculations in Laravel Applications
-Laravel Taxify is a powerful and easy-to-use package designed to simplify tax calculation within Laravel applications. [Read More](https://digitalwiki.info/posts/taxify-package)
-
-### Laravel Deployer Free package to Streamlined Deployment for Laravel apps
-Introducing Laravel Deployer, a cutting-edge package revolutionizing the deployment process for Laravel and Node.js applications. [Read more](https://digitalwiki.info/posts/laravel-deployer)
+**Bachelor's Degree in Computer Networks Engineering Technologies**  
+Sana'a Community College — Dutch Project in Yemen  
+Grade: Very Good — 88.5%  
+`2013 — 2016`
