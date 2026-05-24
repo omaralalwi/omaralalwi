@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/25439498?v=4" width="118" height="118" alt="Omar Ahmed Alalwi" style="border-radius:50%;" />
-
-# Omar Ahmed Alalwi
+# Omar A. Alalwi
 
 ### Technical Lead · Engineering Lead · Senior Full-Stack Developer
 
