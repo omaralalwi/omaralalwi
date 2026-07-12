@@ -235,6 +235,8 @@ AI integrations, AI coding agents, prompt engineering, developer automation, AI-
 | [Kunafa Dashboard Vue](https://github.com/kunafaPlus/kunafa-dashboard-vue) | Vue.js 3 dashboard template with multilingual and RTL/LTR support. |
 | [Clean Code Summary](https://github.com/omaralalwi/clean-code-summary) | Notes and summaries about clean code practices. |
 | [SOLID Principles Summary](https://github.com/omaralalwi/solid-principles-summary) | Notes and summaries about SOLID principles. |
+| [SOLID Principles Summary](https://github.com/omaralalwi/developer-vocabulary-cheatsheet) | developer-vocabulary-cheatsheet . |
+
 
 ---
 
